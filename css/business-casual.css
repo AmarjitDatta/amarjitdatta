@@ -209,3 +209,7 @@ table.resume {
 table.resume td.type {
   width: 30%;
 }
+
+.projects a:hover {
+  text-decoration: none;
+}
