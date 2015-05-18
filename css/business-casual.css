@@ -213,3 +213,7 @@ table.resume td.type {
 .projects a:hover {
   text-decoration: none;
 }
+
+.box.projects a {
+  color: #000;
+}
